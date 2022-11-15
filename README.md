@@ -1,6 +1,8 @@
 ### Portfolio 
 
+Showcasing my projects with links to the live web applications and the source codes (Github).
 
+I’m currently working on these Technologies: React.js, JavaScript, CSS, HTML, Python, Frontend Frameworks.
 
 
 <!--
